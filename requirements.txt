@@ -1,6 +1,16 @@
 numpy
 pandas
 matplotlib
+# scikit-learn=1.7.1
 scikit-learn
 scipy
 seaborn
+factor_analyzer
+nltk
+spacy
+plotly
+wordcloud
+textblob
+vaderSentiment
+py-readability-metrics
+afinn
