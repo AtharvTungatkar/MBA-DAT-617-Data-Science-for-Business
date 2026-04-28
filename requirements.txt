@@ -14,3 +14,5 @@ textblob
 vaderSentiment
 py-readability-metrics
 afinn
+statsmodels
+networkx
